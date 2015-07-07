@@ -41,13 +41,13 @@
 ##The octopus model 
 -  Context
   - Size
-	- Critical 
-	-  Business model
-	- Stable architecture 
-	- Team distribution 
-	- Governance 
-	- Rate of change
-	- Age of the system 
+  - Critical 
+  -  Business model
+  - Stable architecture 
+  - Team distribution 
+  - Governance 
+  - Rate of change
+  - Age of the system 
 - As a PO, we need to understand this
 
 ## Product ownership 
