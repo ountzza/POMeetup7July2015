@@ -104,42 +104,42 @@
   
 ##Tools and tips to help guide PO below 
 ###Innovation 
-		- The number on challenge is to create a culture of innovation - Jim highsmith 
-		- In software dev today- we work on the complex problem 
-		  - We buy simple one 
-			- Don't be afraid to use old and tested solution 
+- The number on challenge is to create a culture of innovation - Jim highsmith 
+	- In software dev today- we work on the complex problem 
+    		- We buy simple one 
+  		- Don't be afraid to use old and tested solution 
 
 ###Purpose alignment model (book - stand back and deliver) 
-	- Market different vs mission criticality 
-		- Partner 
-		- Excel and innovative (we want this!!)
-		- Maintainance 
-		- Parity (like accounting - just need to meet the standard not no point being great at)
+- Market different vs mission criticality 
+	- Partner 
+	- Excel and innovative (we want this!!)
+	- Maintainance 
+	- Parity (like accounting - just need to meet the standard not no point being great at)
 
 ###Vision - common understanding across the whole team of what the project is for and what success look like. Eg.
-	- Vision box
-	- Kano analysis 
-		- Mobile phone example 
-		- So when releasing stuff we need to look at this analysis as a guide to help us cut of the minimum stories to release 
+- Vision box
+- Kano analysis 
+	- Mobile phone example 
+	- So when releasing stuff we need to look at this analysis as a guide to help us cut of the minimum stories to release 
 
 ###Questions 
-	- Siting in a vacuum, what should I do when there is no requiremwent from a business?
-		- Making stuff up
-		- Reduce the technical depth 
-		- Build investment 
-		- Po is about making a good priotization 
+- Siting in a vacuum, what should I do when there is no requiremwent from a business?
+	- Making stuff up
+	- Reduce the technical depth 
+	- Build investment 
+	- Po is about making a good priotization 
 	
-	- How do we measure the Vaule. what are the technic? Get stakeholders to understand the cost
-		- Innovation bidding game 
-		- To help decide where to spend
-		- Sudo budget 
-		- Enabler, Vaule and Waste 
-		- Be careful of technical depths 
+- How do we measure the Vaule. what are the technic? Get stakeholders to understand the cost
+	- Innovation bidding game 
+	- To help decide where to spend
+	- Sudo budget 
+	- Enabler, Vaule and Waste 
+	- Be careful of technical depths 
 
-	- Risk vs innovation
-		- Staying still is moving backward 
-		- Look at way to get a MVP
-		- Validate our idea cheaply 
+- Risk vs innovation
+	- Staying still is moving backward 
+	- Look at way to get a MVP
+	- Validate our idea cheaply 
 
 
 
