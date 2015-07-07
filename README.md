@@ -141,6 +141,10 @@
 	- Staying still is moving backward 
 	- Look at way to get a MVP
 	- Validate our idea cheaply 
-
-
-
+#Links
+- http://www.meetup.com/agile-bkk/events/222630939/
+- https://www.dropbox.com/s/ph3ojeedw7zk5pc/ProductOwnershipIsATeamSportByShaneHastie.pdf?dl=0
+- http://www.innovationgames.com/2012/03/san-jose-citizens-use-innovation-games-to-make-tough-budget-choices/
+- http://www.innovationgames.com/buy-a-feature/
+- http://www.infoq.com/articles/agile-input-management
+- http://www.amazon.com/Stand-Back-Deliver-Accelerating-Business/dp/0321572882
