@@ -116,7 +116,8 @@
 	- Maintainance 
 	- Parity (like accounting - just need to meet the standard not no point being great at)
 
-###Vision - common understanding across the whole team of what the project is for and what success look like. Eg.
+###Vision 
+***common understanding across the whole team of what the project is for and what success look like. Eg.***
 - Vision box
 - Kano analysis 
 	- Mobile phone example 
